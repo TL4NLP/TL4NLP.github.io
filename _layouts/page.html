@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<article class="post">
+  <center>
+  <header class="post-header">
+    <h2 class="post-title">{{ page.title | escape }}</h2>
+    {% if page.subtitle %}
+    <h1>{{ page.subtitle | escape }}</h1>
+    {% endif %}  
+  </header>
+
+  <div class="blog-header">
+    <div class="container">
+      <h3 class="lead blog-description">
+        &diams; Workshop co-located with <a href="https://neurips.cc/">NeurIPS 2022</a> &diams; December 2-3, 2022 &diams; <br>
+        &diams; Contact: <a href="mailto:tl4nlp.workshoporganizers@gmail.com">tl4nlp.workshoporganizers@gmail.com</a> &diams;
+        
+      </h3>
+    </div>
+  </div>
+</center>
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>
