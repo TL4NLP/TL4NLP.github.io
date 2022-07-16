@@ -26,16 +26,20 @@ We welcome archival and non-archival submissions on theory and applications that
 
 ## Formats
 
-We will accept the following paper formats:
+TBA
+<!-- We will accept the following paper formats:
 * **Long papers** of original, unpublished research. Long papers must not exceed 8 pages, excluding references and appendices. Final versions will be given an additional page of content. Submissions must be anonymized.
 * **Short papers** of original, unpublished research. Short papers must not exceed 4 pages, excluding references and appendices. Final versions will be given an additional page of content. Submissions must be anonymized.
-* **Non-archival extended abstracts** with either previously-published content or content related to in-progress, unfinished work. Extended abstracts must be limited to 2 pages or fewer, excluding references and appendices. Anonymization is not required.
+* **Non-archival extended abstracts** with either previously-published content or content related to in-progress, unfinished work. Extended abstracts must be limited to 2 pages or fewer, excluding references and appendices. Anonymization is not required. -->
 
 ## Submission Guidelines
 
-**TODO:** Update guidelines according to NeurIPS 
+TBA
 
 ## Dates
 
-* **Sep 22nd:** OpenReview submission deadline
-* **Oct 20th:** Acceptance notifications
+* **Sep 22nd AoE:** OpenReview submission deadline
+* **Oct 20th AoE :** Acceptance notifications
+* **Nov 3rd AoE:** Camera-ready submission deadline
+* **December 2nd or 3rd:** In-person workshop
+

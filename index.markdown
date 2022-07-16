@@ -5,16 +5,24 @@ subtitle: Insights and Advances on Positive and Negative Transfer
 nav_order: 1
 ---
 
-**TODO:** Brief intro here
+# Abstract
 
+Transfer learning has become ubiquitous in natural language processing due in part to the ease of access to large pre-trained language models (PLM). Current transfer learning methods, combined with PLMs, have seen outstanding successes in transferring knowledge to new tasks, domains, and even languages. However, existing methods still suffer from some common weaknesses that restrict their potential applications.
+
+**One particular hope for this workshop is to help to answer the question:**
+*Can we characterize the transfer behaviors between source and target tasks/domains/languages in terms of their fundamental properties?*
+
+**Another hope we have for this workshop is to help answer the question:**
+*Given a specific set of circumstances (task, dataset size, available resources) how can we efficiently and effectively transfer knowledge?*
 
 # News
-
+TBA
 
 # Important Dates
 
-* **Sep 22nd:** OpenReview submission deadline
-* **Oct 20th:** Acceptance notifications
+* **Sep 22nd AoE:** OpenReview submission deadline
+* **Oct 20th AoE :** Acceptance notifications
+* **Nov 3rd AoE:** Camera-ready submission deadline
 * **December 2nd or 3rd:** In-person workshop
 
 # Invited Speakers
@@ -67,23 +75,23 @@ nav_order: 1
     <tbody>
         <tr>
             <td width="33%"><a href="https://alon-albalak.github.io/"><img src="images/alon.jpg" width="200px" style="border-radius: 25%"></a></td>
-            <td width="33%"><a href="http://colinraffel.com/"><img src="images/colin.jpg" width="200px" style="border-radius: 25%"></a></td>
             <td width="33%"><a href="https://violet-zct.github.io/"><img src="images/chunting.jpg" width="200px" style="border-radius: 25%"></a></td>
+            <td width="33%"><a href="http://colinraffel.com/"><img src="images/colin.jpg" width="200px" style="border-radius: 25%"></a></td>
         </tr>
         <tr>
             <td><a href="https://alon-albalak.github.io/">Alon Albalak (University of California, Santa Barbara)</a></td>
-            <td><a href="http://colinraffel.com/">Colin Raffel (UNC Chapel Hill & Hugging Face)</a></td>
             <td><a href="https://violet-zct.github.io/">Chunting Zhou (FAIR)</a></td>
+            <td><a href="http://colinraffel.com/">Colin Raffel (UNC Chapel Hill & Hugging Face)</a></td>
         </tr>
         <tr>
             <td width="33%"><a href="https://research.google/people/107300/"><img src="images/deepak.jpg" width="200px" style="border-radius: 25%"></a></td>
-            <td width="33%"><a href="https://xuezhemax.github.io/"><img src="images/xuezhe.png" width="200px" style="border-radius: 25%"></a></td>
             <td width="33%"><a href="https://ruder.io/"><img src="images/sebastian.jpg" width="200px" style="border-radius: 25%"></a></td>
+            <td width="33%"><a href="https://xuezhemax.github.io/"><img src="images/xuezhe.png" width="200px" style="border-radius: 25%"></a></td>
         </tr>
         <tr>
             <td><a href="https://research.google/people/107300/">Deepak Ramachandran (Google Research)</a></td>
-            <td><a href="https://xuezhemax.github.io/">Xuezhe Ma (USC ISI)</a></td>
             <td><a href="https://ruder.io/">Sebastian Ruder (Google Research)</a></td>
+            <td><a href="https://xuezhemax.github.io/">Xuezhe Ma (USC ISI)</a></td>
         </tr>
     </tbody>
 </table>
