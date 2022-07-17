@@ -35,7 +35,7 @@ TBA
 ## Dates
 
 * **Sep 22nd AoE:** OpenReview submission deadline
-* **Oct 20th AoE :** Acceptance notifications
+* **Oct 14th AoE :** Acceptance notifications
 * **Nov 3rd AoE:** Camera-ready submission deadline
-* **December 2nd or 3rd:** In-person workshop
+* **December 3rd:** In-person workshop
 
