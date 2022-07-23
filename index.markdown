@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Transfer Learning for NLP Workshop 2022
-subtitle: Insights and Advances on Positive and Negative Transfer
 nav_order: 1
 ---
 
