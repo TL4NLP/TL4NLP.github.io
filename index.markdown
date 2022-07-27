@@ -15,7 +15,7 @@ Transfer learning has become ubiquitous in natural language processing due in pa
 *Given a specific set of circumstances (task, dataset size, available resources) how can we efficiently and effectively transfer knowledge?*
 
 # News
-TBA
+* 07/27/2022: First Call for Papers is out! Check it out [here](/Calls/)
 
 # Important Dates
 
