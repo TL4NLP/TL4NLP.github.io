@@ -11,11 +11,16 @@ Transfer learning has become ubiquitous in natural language processing due in pa
 **One particular hope for this workshop is to help to answer the question:**
 *Can we characterize the transfer behaviors between source and target tasks/domains/languages in terms of their fundamental properties?*
 
+A current weakness of transfer learning is the limited understanding of when transfer will lead to performance improvements, or predicting how positive or negative the effect of transfer will be. Although negative transfer is a known issue in transfer learning, multitask learning, continual learning, and domain adaptation, the causes remain unclear. As research efforts scale up to address an ever expanding set of domains, tasks, and languages, understanding positive and negative transfer becomes increasingly valuable.
+
 **Another hope we have for this workshop is to help answer the question:**
 *Given a specific set of circumstances (task, dataset size, available resources) how can we efficiently and effectively transfer knowledge?*
 
+With the ever-increasing size of language models, fine-tuning on downstream tasks becomes increasingly expensive (computationally and fiscally). This can lead to unequal opportunities for the application of such large models. Recent works have proposed prompting and parameter efficient fine-tuning methods to mitigate this risk and ensure equal access for underrepresented groups and languages. However, these methods still lack consistently good performance across different tasks, varying sizes of data resources, and wordings of textual prompts.
+
 # News
 * 07/27/2022: First Call for Papers is out! Check it out [here](/Calls/)
+* 08/01/2022: Now accepting submissions on [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/TL4NLP)
 
 # Important Dates
 
