@@ -18,6 +18,23 @@ A current weakness of transfer learning is the limited understanding of when tra
 
 With the ever-increasing size of language models, fine-tuning on downstream tasks becomes increasingly expensive (computationally and fiscally). This can lead to unequal opportunities for the application of such large models. Recent works have proposed prompting and parameter efficient fine-tuning methods to mitigate this risk and ensure equal access for underrepresented groups and languages. However, these methods still lack consistently good performance across different tasks, varying sizes of data resources, and wordings of textual prompts.
 
+## Topics
+
+We welcome archival and non-archival submissions on theory and applications that relate to transfer learning in NLP including, but not limited to (see the [call for papers](/Calls/) for more details):
+- Predicting and quantifying transferability
+- Characterizing positive and negative transfer
+- Modular Transfer Learning
+- Parameter-efficient and Computationally Efficient Transfer
+- Domain Adaptation
+- Task Transfer
+- Multitask, Continual, and Meta Learning
+- Cross-lingual Transfer
+- Robustness and Generalizability
+- Datasets and Tasks for Pre-training and Intermediate fine-tuning. 
+- Inductive Transfer Bias in Model Architectures
+- Unsupervised/Self-supervised Learning for Transfer (eg. GPT-3)
+- Multitask Learning for zero-shot task generalization (eg. T0, FLAN, etc.)
+
 # News
 * 07/27/2022: First Call for Papers is out! Check it out [here](/Calls/)
 * 08/01/2022: Now accepting submissions on [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/TL4NLP)
