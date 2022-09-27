@@ -20,7 +20,7 @@ This workshop aims to invite researchers from different backgrounds to share the
 ## Important Dates
 
 * ~~**Sep 22nd AoE:** OpenReview submission deadline~~
-* **Sep 25th AoE:** Extended OpenReview submission deadline
+* **Sep 30th AoE:** Extended OpenReview submission deadline
 * **Oct 14th AoE :** Acceptance notifications
 * **Nov 3rd AoE:** Camera-ready submission deadline
 * **December 3rd:** In-person workshop
