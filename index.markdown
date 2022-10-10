@@ -71,7 +71,7 @@ We welcome archival and non-archival submissions on theory and applications that
         </tr>
         <tr>
             <td><a href="https://dadelani.github.io/">David Adelani (Universität des Saarlandes)</a></td>
-            <td><a href="https://pfeiffer.ai/">Jonas Pfeiffer (NYU & TU Darmstadt)</a></td>
+            <td><a href="https://pfeiffer.ai/">Jonas Pfeiffer (Google Research)</a></td>
         </tr>
     </tbody>
 </table>
