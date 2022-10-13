@@ -52,12 +52,12 @@ We welcome archival and non-archival submissions on theory and applications that
 <table>
     <tbody>
         <tr>
-            <td width="33%"><a href="https://www.cs.washington.edu/people/faculty/lsz"><img src="images/luke.jpg" width="200px" style="border-radius: 25%"></a></td>
+            <td width="33%"><a href="https://scholar.google.co.uk/citations?user=SnQnQicAAAAJ&hl=en"><img src="images/mike_lewis.jpg" width="200px" style="border-radius: 25%"></a></td>
             <td width="33%"><a href="https://cs.stanford.edu/~pliang/"><img src="images/percy.jpg" width="200px" style="border-radius: 25%"></a></td>
             <td width="33%"><a href="http://www.phontron.com/"><img src="images/graham.jpg" width="200px" style="border-radius: 25%"></a></td>
         </tr>
         <tr>
-            <td><a href="https://www.cs.washington.edu/people/faculty/lsz">Luke Zettlemoyer (UW & FAIR)</a></td>
+            <td><a href="https://www.cs.washington.edu/people/faculty/lsz">Mike Lewis (FAIR)</a></td>
             <td><a href="https://cs.stanford.edu/~pliang/">Percy Liang (Stanford)</a></td>
             <td><a href="http://www.phontron.com/">Graham Neubig (CMU)</a></td>
         </tr>
