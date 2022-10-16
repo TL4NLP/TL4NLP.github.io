@@ -67,12 +67,14 @@ We welcome archival and non-archival submissions on theory and applications that
 <table>
     <tbody>
         <tr>
-            <td width="50%"><a href="https://dadelani.github.io/"><img src="images/david.jpg" width="200px" style="border-radius: 25%"></a></td>
-            <td width="50%"><a href="https://pfeiffer.ai/"><img src="images/jonas.jpg" width="200px" style="border-radius: 25%"></a></td>
+            <td width="33%"><a href="https://dadelani.github.io/"><img src="images/david.jpg" width="200px" style="border-radius: 25%"></a></td>
+            <td width="33%"><a href="https://pfeiffer.ai/"><img src="images/jonas.jpg" width="200px" style="border-radius: 25%"></a></td>
+            <td width="33%"><a href="https://ananyakumar.wordpress.com/"><img src="images/ananya.png" width="200px" style="border-radius: 25%"></a></td>
         </tr>
         <tr>
             <td><a href="https://dadelani.github.io/">David Adelani (Universität des Saarlandes)</a></td>
             <td><a href="https://pfeiffer.ai/">Jonas Pfeiffer (Google Research)</a></td>
+            <td><a href="https://ananyakumar.wordpress.com/">Ananya Kumar (Stanford)</a></td>
         </tr>
     </tbody>
 </table>
