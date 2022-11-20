@@ -84,11 +84,11 @@ We welcome archival and non-archival submissions on theory and applications that
 <table>
     <tbody>
         <tr>
-            <td width="50%"><a href="https://cs.brown.edu/people/epavlick/"><img src="images/ellie.jpg" width="200px" style="border-radius: 25%"></a></td>
+            <td width="50%"><a href="http://www.sarahooker.me/"><img src="images/sara.jpeg" width="200px" style="border-radius: 25%"></a></td>
             <td width="50%"><a href="https://kyunghyuncho.me/"><img src="images/kyunghyun.jpg" width="200px" style="border-radius: 25%"></a></td>
         </tr>
         <tr>
-            <td><a href="https://cs.brown.edu/people/epavlick/">Ellie Pavlick (Brown University & Google AI)</a></td>
+            <td><a href="http://www.sarahooker.me/">Sara Hooker (Cohere For AI)</a></td>
             <td><a href="https://kyunghyuncho.me/">Kyunghyun Cho (NYU & Genentech)</a></td>
         </tr>
     </tbody>
