@@ -123,90 +123,51 @@ We welcome archival and non-archival submissions on theory and applications that
 
 # Program Committee
 
-Aishwarya Kamath - New York University
-
-Akshat Shrivastava - Meta
-
-Aleksandra Piktus - HuggingFace
-
-Alfonso Amayuelas - University of California, Santa Barbara
-
-Alham Fikri Aji - Amazon
-
-Chenghao Yang - University of Chicago
-
-David Ifeoluwa Adelani - Universität des Saarlandes
-
-Emmy Liu - Carnegie Mellon University
-
-Feng Cheng
-
-Genta Indra Winata - Bloomberg
-
-Hao Zhu - Carnegie Mellon University
-
-I-Hung Hsu - University of Southern California
-
-Ivan Vulić - University of Cambridge
-
-Jason Phang - New York University
-
-Jiao Sun - University of Southern California
-
-Jonas Pfeiffer - Google Research
-
-Jun Yan - University of Southern California
-
-Junxian He - Carnegie Mellon University
-
-Kexun Zhang - University of California, Santa Barbara
-
-Kris Cao - DeepMind
-
-Mengzhou Xia - Princeton University
-
-Michael Saxon - University of California, Santa Barbara
-
-Michihiro Yasunaga - Stanford University
-
-Mozhdeh Gheini - University of Southern California
-
-Nicholas Lourie - AI2
-
-Nuan Wen - University of Southern California
-
-Patrick Fernandes - Carnegie Mellon University
-
-Phillip Rust - University of Copenhagen
-
-Prateek Yadav - University of North Carolina, Chapel Hill
-
-Qinyuan Ye - University of Southern California
-
-Shamsuddeen Hassan Muhammad - Bayero University, Kano
-
-Tianyi Zhang - Stanford University
-
-Trapit Bansal - OpenAI
-
-Tu Vu - University of Massachusetts, Amherst
-
-Vamsi Aribandi - ASAPP
-
-Weixi Feng - University of California, Santa Barbara
-
-Xi Ye - University of Texas, Austin
-
-Xiang Kong - Carnegie Mellon University
-
-Xiang Lisa Li - Stanford University
-
-Xin Xu - Google Research
-
-Xinyi Wang - Carnegie Mellon University
-
-Zhisong Zhang - Carnegie Mellon University
-
-Zhiyu Chen - Meta
-
+Aishwarya Kamath - New York University  
+Akshat Shrivastava - Meta  
+Aleksandra Piktus - HuggingFace  
+Alfonso Amayuelas - University of California, Santa Barbara  
+Alham Fikri Aji - Amazon  
+Chenghao Yang - University of Chicago  
+David Ifeoluwa Adelani - University College London  
+Emmy Liu - Carnegie Mellon University  
+Feng Cheng  
+Genta Indra Winata - Bloomberg  
+Hao Zhu - Carnegie Mellon University  
+I-Hung Hsu - University of Southern California  
+Ivan Vulić - University of Cambridge  
+Jason Phang - New York University  
+Jiao Sun - University of Southern California  
+Jonas Pfeiffer - Google Research  
+Jun Yan - University of Southern California  
+Junxian He - Carnegie Mellon University  
+Kexun Zhang - University of California, Santa Barbara  
+Kris Cao - DeepMind  
+Mengzhou Xia - Princeton University  
+Michael Saxon - University of California, Santa Barbara  
+Michihiro Yasunaga - Stanford University  
+Mozhdeh Gheini - University of Southern California  
+Nicholas Lourie - AI2  
+Nuan Wen - University of Southern California  
+Patrick Fernandes - Carnegie Mellon University  
+Phillip Rust - University of Copenhagen  
+Prateek Yadav - University of North Carolina, Chapel Hill  
+Qinyuan Ye - University of Southern California  
+Shamsuddeen Hassan Muhammad - Bayero University, Kano  
+Tianyi Zhang - Stanford University  
+Trapit Bansal - OpenAI  
+Tu Vu - University of Massachusetts, Amherst  
+Vamsi Aribandi - ASAPP  
+Weixi Feng - University of California, Santa Barbara  
+Xi Ye - University of Texas, Austin  
+Xiang Kong - Carnegie Mellon University  
+Xiang Lisa Li - Stanford University  
+Xin Xu - Google Research  
+Xinyi Wang - Carnegie Mellon University  
+Zhisong Zhang - Carnegie Mellon University  
+Zhiyu Chen - Meta  
 Zi-Yi Dou - University of California, Los Angeles
+
+## Platinum-Level Sponsor
+
+<img src="images/Google Logo.png" width="400px" style="border-radius: 25%">
