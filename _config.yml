@@ -51,6 +51,7 @@ header_pages:
   - calls.markdown
   - competition.markdown
   - program.markdown
+  - accepted_work.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
