@@ -72,7 +72,7 @@ We welcome archival and non-archival submissions on theory and applications that
             <td width="33%"><a href="https://ananyakumar.wordpress.com/"><img src="images/ananya.png" width="200px" style="border-radius: 25%"></a></td>
         </tr>
         <tr>
-            <td><a href="https://dadelani.github.io/">David Adelani (Universität des Saarlandes)</a></td>
+            <td><a href="https://dadelani.github.io/">David Adelani (University College London)</a></td>
             <td><a href="https://pfeiffer.ai/">Jonas Pfeiffer (Google Research)</a></td>
             <td><a href="https://ananyakumar.wordpress.com/">Ananya Kumar (Stanford)</a></td>
         </tr>
