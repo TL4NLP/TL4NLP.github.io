@@ -16,7 +16,7 @@ Junze Li, Mengjie Zhao, Yubo Xie, Antonis Maronikolakis, Pearl Pu, Hinrich Schue
 Anuj Diwan, Puyuan Peng, Ray Mooney
 
 **Can You Label Less by Using Out-of-Domain Data? Active & Transfer Learning with Few-shot Instructions**  
-Rafal Dariusz Kocielnik, Sara Kangaslahti, Shrimai Prabhumoye, Meena Hari, Michael R. Alvarez, Anima Anandkumar
+Rafal Kocielnik, Sara Kangaslahti, Shrimai Prabhumoye, Meena Hari, R. Michael Alvarez, Anima Anandkumar
 
 **LST: Ladder Side-Tuning for Parameter and Memory Efficient Transfer Learning**  
 Yi-Lin Sung, Jaemin Cho, Mohit Bansal
