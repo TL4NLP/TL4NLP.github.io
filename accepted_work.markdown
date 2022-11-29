@@ -42,9 +42,6 @@ Shuo Xie, Jiahao Qiu, Ankita Pasad, Li Du, Qing Qu, Hongyuan Mei
 **Evaluating the Robustness of Biomedical Concept Normalization**  
 Sinchani Chakraborty, Harsh Raj, Srishti Gureja, Tanmay Jain, Atif Hassan, Sayantan Basu
 
-**Multi-Head Adapter Routing for Data-Efficient Fine-Tuning**  
-Lucas Caccia, Edoardo Ponti, Lucas Liu, Matheus Pereira, Nicolas Le Roux, Alessandro Sordoni
-
 **Learning Cross-Database Transfer of Text-queries for Adapting Text-to-SQL Parsers**  
 Abhijeet Awasthi, Ashutosh Sathe, Sunita Sarawagi
 
