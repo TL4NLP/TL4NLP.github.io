@@ -32,6 +32,18 @@ nav_order: 3
 
 **Bio:** Jonas Pfeiffer is a Research Scientist at Google Research. He is interested in modular representation learning in multi-task, multilingual, and multi-modal contexts, and in low-resource scenarios. He worked on his PhD at the Technical University of Darmstadt,  was a visiting researcher at the New York University and a Research Scientist Intern at Meta Research. Jonas has received the IBM PhD Research Fellowship award for 2021/2022. He has given numerous invited talks at academia, industry and ML summer schools, and has co-organized multiple workshops on multilinguality and multimodality.
 
+**Recording:**
+
+<div id="presentation-embed-38993239"></div>
+<script src="https://slideslive.com/embed_presentation.js"></script>
+<script>
+  embed = new SlidesLiveEmbed("presentation-embed-38993239", {
+    presentationId: "38993239",
+    autoPlay: false,
+    verticalEnabled: true,
+  });
+</script>
+
 ## Graham Neubig
 
 **Title:** Automating Auxiliary Learning
