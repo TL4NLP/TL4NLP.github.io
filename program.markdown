@@ -52,6 +52,18 @@ nav_order: 3
 
 **Bio:** Graham Neubig is an associate professor at the Language Technologies Institute of Carnegie Mellon University and CEO of Inspired Cognition. His research focuses on natural language processing, with a focus on multilingual NLP, natural language interfaces to computers, and machine learning methods for NLP system building and evaluation. His final goal is that every person in the world should be able to communicate with each-other, and with computers in their own language. He also contributes to making NLP research more accessible through open publishing of research papers, advanced NLP course materials and video lectures, and open-source software, all of which are available on his web site.
 
+**Recording:**
+
+<div id="presentation-embed-38993238"></div>
+<script src="https://slideslive.com/embed_presentation.js"></script>
+<script>
+  embed = new SlidesLiveEmbed("presentation-embed-38993238", {
+    presentationId: "38993238",
+    autoPlay: false,
+    verticalEnabled: true,
+  });
+</script>
+
 ## Percy Liang & Ananya Kumar
 
 **Title:** Fine-Tuning without Distortion: Improving Robustness to Distribution Shifts
@@ -62,6 +74,30 @@ nav_order: 3
 
 **Ananya:** Ananya Kumar is a PhD student at Stanford University. His research focuses on understanding and developing better algorithms for pretraining and fine-tuning, and building ML models that are robust to distribution shifts. He has done some of the first work on theoretically analyzing fine-tuning and self-supervised learning. His theories and methods have led to practical methods and state-of-the-art accuracies on many datasets including ImageNet and WILDS. His work has been recognized by an SGF Fellowship, and oral and spotlight presentations at ICLR, ICML, and NeurIPS.
 
+**Recording:**
+
+<div id="presentation-embed-38993237"></div>
+<script src="https://slideslive.com/embed_presentation.js"></script>
+<script>
+  embed = new SlidesLiveEmbed("presentation-embed-38993237", {
+    presentationId: "38993237",
+    autoPlay: false,
+    verticalEnabled: true,
+  });
+</script>
+
+## Sara Hooker and Kyunghyun Cho (Debate)
+
+<div id="presentation-embed-38996766"></div>
+<script src="https://slideslive.com/embed_presentation.js"></script>
+<script>
+  embed = new SlidesLiveEmbed("presentation-embed-38996766", {
+    presentationId: "38996766",
+    autoPlay: false,
+    verticalEnabled: true,
+  });
+</script>
+
 ## David Adelani
 
 **Title:** Cross-lingual Transfer for Named Entity Recognition: A study on African Languages
@@ -70,6 +106,18 @@ nav_order: 3
 
 **Bio:** David Ifeoluwa Adelani is a research fellow at University College London, United Kingdom. and an active member of Masakhane NLP - a grassroots organization whose mission is to strengthen and spur NLP research in African languages, for Africans, by Africans. Previously, he was a PhD student in computer science at Saarland University, Saarbrücken, Germany. His current research focuses on NLP for under-resourced languages with a focus on African languages, multilingual representation learning, and privacy in NLP.
 
+**Recording:**
+
+<div id="presentation-embed-38993236"></div>
+<script src="https://slideslive.com/embed_presentation.js"></script>
+<script>
+  embed = new SlidesLiveEmbed("presentation-embed-38993236", {
+    presentationId: "38993236",
+    autoPlay: false,
+    verticalEnabled: true,
+  });
+</script>
+
 ## Mike Lewis
 
 **Title:** Training Language Models to Negotiate in the Game of Diplomacy
@@ -77,3 +125,15 @@ nav_order: 3
 **Abstract:** Despite much progress in training AI systems to imitate human language, building agents that use language to communicate intentionally with humans in interactive environments remains a major challenge. I will describe how we adapted language models to negotiate with people, reaching human-level performance in Diplomacy. A typical game involves generating hundreds of messages, which must be grounded in the game state, dialogue history, and the agent’s intended actions - all in a domain far from the pre-training data. The core of our approach is a method for linking language models to a symbolic planning module. Across 40 games of an anonymous online Diplomacy league, Cicero achieved more than double the average score of the human players and ranked in the top 10% of participants who played more than one game.
 
 **Bio:** Mike Lewis is a research scientist at FAIR Seattle, working on representation learning and reasoning for natural language. Previously he was a postdoc at the University of Washington (working with Luke Zettlemoyer), developing search algorithms for neural structured prediction. He has a PhD from the University of Edinburgh (advised by Mark Steedman) on combining symbolic and distributed representations of meaning. He received a Best Paper award at EMNLP 2016, Best Resource Paper at ACL 2017, and Best Paper Honourable Mention at ACL 2018. His work has been extensively covered in the media, with varying levels of accuracy.
+
+**Recording:**
+
+<div id="presentation-embed-38993347"></div>
+<script src="https://slideslive.com/embed_presentation.js"></script>
+<script>
+  embed = new SlidesLiveEmbed("presentation-embed-38993347", {
+    presentationId: "38993347",
+    autoPlay: false,
+    verticalEnabled: true,
+  });
+</script>
